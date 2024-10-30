@@ -2,8 +2,7 @@ Hola! Mi nombre es Gina Giuliana Correa
 
 ¿Quién soy?
 
-Soy una mujer creativa con grandes habilidades en el Analisis de Datos, me encanta el pensamiento analitico y la resolucion de problemas. 
-Amo encontrarme con nuevos desafios, a la hora de analizar gestiono muy el tiempo, por lo que soy muy responsable. 
+Soy una mujer creativa con grandes habilidades en el Analisis de Datos, me encanta el pensamiento analitico y la resolucion de problemas.  
 
 ¿Qué hago?
 
